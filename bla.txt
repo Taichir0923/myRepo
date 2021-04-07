@@ -1,0 +1,65 @@
+HTML - Content - paragraph => p
+CSS - Cascading stylsheet
+
+CSS rules
+
+background-color: black
+
+selector {
+  property: value; 
+  property1: value1;
+}
+
+px, rem, em
+
+
+block, inline
+
+
+inline - img, input, button, span
+
+
+block - h1, ul, li, div, header, main, section, footer
+
+Colors in CSS:
+
+1. Тухайн өнгөний нэрээр. black, red, green
+2. Өнгөний Code
+   a. HEX Code - # + 6 temdegt (0-9, A-F)  0-f
+      #ABC123 -   AA   BB     CC, #000 , #ff0
+
+   b. RGB color - Red, Green, Blue - rgb(0-255, 0-255, 0-255);
+      rgb(0, 0, 255);
+
+   c. RGBA - rgba(0-255,0-255,0-255, 0);
+   d. HSL()
+
+
+
+
+DevTools - Developer's Tool
+
+
+margin, padding
+
+
+x,y
+x <-- -->
+
+margin: 10px 20px;
+          y    x
+margin: 10px  25px   13px   60px
+        top  right  bottom  left
+
+margin-top: 15px;
+padding-left: 20px;
+
+
+
+
+
+
+
+
+
+
